@@ -1,0 +1,2 @@
+# Mysuperbot
+Yes
